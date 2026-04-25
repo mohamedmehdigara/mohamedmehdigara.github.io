@@ -69,7 +69,7 @@ function App() {
     tags: ["React", "Zustand", "Styled Components"],
     
     link: "https://github.com/mohamedmehdigara/react-eco-friendly-city-builder",
-    demo: "https://eco-metropolis.vercel.app"
+    demo: "https://react-eco-friendly-city-builder-zug.vercel.app"
   },
   {
     id: 2,
@@ -78,7 +78,7 @@ function App() {
     tags: ["React", "Zustand", "Styled Components"],
     
     link: "https://github.com/mohamedmehdigara/react-pinball",
-    demo: "https://neopin-demo.io"
+    demo: "https://react-pinball-xwsd.vercel.app"
   }
 ];
 
